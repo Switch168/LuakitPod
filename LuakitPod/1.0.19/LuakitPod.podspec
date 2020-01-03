@@ -25,7 +25,7 @@ LuakitPod
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'williamwen1986' => 'williamwen1986@gmail.com' }
-  s.source           = { :git => 'https://github.com/williamwen1986/LuakitPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Switch168/LuakitPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
