@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 LuakitPod
                        DESC
 
-  s.homepage         = 'https://github.com/williamwen1986/LuakitPod'
+  s.homepage         = 'https://github.com/Switch168/LuakitPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'williamwen1986' => 'williamwen1986@gmail.com' }
